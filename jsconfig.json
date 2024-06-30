@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "paths": {
+      "swiper-bundle.min.css": ["node_modules/swiper/swiper-bundle.min.css"],
       "@/*": ["./src/*"]
     }
   }
